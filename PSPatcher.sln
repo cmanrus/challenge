@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PSPatcher", "PSPatcher\PSPatcher.csproj", "{849DB97F-E877-4095-B2CE-A9106540659F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PSPatcher.Core", "PSPatcher.Core\PSPatcher.Core.csproj", "{8EFEC285-902B-4F83-B9D2-39D3A061D76D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PSPatcher.Tests", "PSPatcher.Tests\PSPatcher.Tests.csproj", "{A095D624-6A1F-46F1-8572-8562C822B320}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{849DB97F-E877-4095-B2CE-A9106540659F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{849DB97F-E877-4095-B2CE-A9106540659F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{849DB97F-E877-4095-B2CE-A9106540659F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{849DB97F-E877-4095-B2CE-A9106540659F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EFEC285-902B-4F83-B9D2-39D3A061D76D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EFEC285-902B-4F83-B9D2-39D3A061D76D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EFEC285-902B-4F83-B9D2-39D3A061D76D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EFEC285-902B-4F83-B9D2-39D3A061D76D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A095D624-6A1F-46F1-8572-8562C822B320}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A095D624-6A1F-46F1-8572-8562C822B320}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A095D624-6A1F-46F1-8572-8562C822B320}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A095D624-6A1F-46F1-8572-8562C822B320}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
